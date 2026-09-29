@@ -1,2 +1,3 @@
 # personal-website
-This is an example of repository.
+
+This is my repository where I will host my personal website which is going to be wonderful 🚀🚀🚀🚀🚀🚀
