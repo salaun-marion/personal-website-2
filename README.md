@@ -1,3 +1,7 @@
 # personal-website
 
 This is my repository where I will host my personal website which is going to be wonderful 🚀🚀🚀🚀🚀🚀
+
+## More about the project...
+
+My name is Marion.
